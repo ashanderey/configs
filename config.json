@@ -1,4 +1,4 @@
 {
 	"sample": "configuration"
-	"board_api_cert":"/www/test/${TOKEN}/db"
+	"board_api_cert": "/www/test/${TOKEN}/db"
 }
